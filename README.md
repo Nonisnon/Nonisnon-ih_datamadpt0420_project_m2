@@ -1,11 +1,13 @@
 # Nonisnon-ih_datamadpt0420_project_m2
 Ironhack project m2
 
-:raising_hand: Diamonds Dashboard
-The main objective of this dashboard is to analyze the different factors that affects the price of the diamonds.
+:raising_hand: Diamonds exploratory data analysis
+The main objective of this project is to understand the different factors that affects the price of a diamond.
 
-You can filter by color, clarity and cut, those are the cualitative mains factor that affects the price of a diamond.
-
+This project includes:
+    Exploratory data analysis: analysis and visualization from diamonds_data.csv
+    Dashboard Diamonds: better visualization of the database. you can find the dashboard here: https://public.tableau.com/profile/antonio.de.diego#!/vizhome/Ironhackproject2/Dashboard1?publish=yes
+    
 :baby: Status
 The dashboard is ready to run!! Enjoy it!
 
