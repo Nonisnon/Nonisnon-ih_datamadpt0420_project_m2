@@ -1,7 +1,7 @@
 # Nonisnon-ih_datamadpt0420_project_m2
 Ironhack project m2
 
-![diamonds](diamonds_test.png)
+![diamonds](diamonds_horiz.png)
 
 :raising_hand: Diamonds exploratory data analysis
 The main objective of this project is to understand the different factors that affects the price of a diamond.
